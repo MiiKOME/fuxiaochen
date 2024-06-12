@@ -60,9 +60,7 @@ export const HeroSection = () => {
       >
         喜欢
         <span className={`font-semibold text-[#00d8ff]`}>React</span>、
-        <span className={`font-semibold text-[#007acc]`}>TypeScript</span>和
-        <span className={`font-semibold text-[#00b4e0]`}>Golang</span>
-        <span className="ml-4">\owo/ ~</span>
+        <span className={`font-semibold text-[#007acc]`}>TypeScript</span>
       </p>
       <p
         className={cn(
@@ -73,7 +71,7 @@ export const HeroSection = () => {
           animationDelay: `${getDelay()}ms`,
         }}
       >
-        我在这个网站记录我的成长，努力 💪 成为一个更好的程序员。
+        事出突然，临时决定当个前端工程师
       </p>
       <div
         className={cn("flex space-x-4", "animate-fade-up animate-ease-in-out")}

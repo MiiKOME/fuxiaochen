@@ -1,26 +1,26 @@
 /** 邮箱 */
-export const EMAIL = "aifuxi.js@gmail.com";
+export const EMAIL = "mikome1214@gmail.com";
 
 /** 昵称 */
-export const NICKNAME = "付小晨";
+export const NICKNAME = "MIKOME";
 
 /** Github 个人页 */
-export const GITHUB_PAGE = "https://github.com/aifuxi";
+export const GITHUB_PAGE = "https://github.com/MiiKOME";
 
 /** 网站代码 Github 地址 */
-export const SOURCE_CODE_GITHUB_PAGE = "https://github.com/aifuxi/fuxiaochen";
+export const SOURCE_CODE_GITHUB_PAGE = "https://github.com/MiiKOME/fuxiaochen";
 
 /** 掘金个人页 */
-export const JUEJIN_PAGE = "https://juejin.cn/user/2647279733052494";
+export const JUEJIN_PAGE = "https://github.com/MiiKOME/fuxiaochen";
 
 /** B站个人页 */
-export const BILIBILI_PAGE = "https://space.bilibili.com/315542317";
+export const BILIBILI_PAGE = "https://space.bilibili.com/2099830";
 
 /** 网站名称 */
 export const WEBSITE = `${NICKNAME}`;
 
 /** Slogan */
-export const SLOGAN = "努力做一个更好的程序员";
+export const SLOGAN = "天下英雄真如过江之鲫";
 
 /** 网站ICP备案号 */
 export const BEI_AN_NUMBER = "赣ICP备2024026230号";

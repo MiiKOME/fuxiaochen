@@ -1,7 +1,7 @@
-# <div align="center">fuxiaochen</div>
+# <div align="center">MIKOME</div>
 
 **本项目是一个个人学习技术和探索的项目，随时可能有 breaking change。不建议！！！不建议 ！！！不建议 ！！！用于生产环境，欢迎一起互相交流学习～**
-
+**（完全借用了fuxiaochen的开源博客项目，用作学习）**
 ## 简介
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)

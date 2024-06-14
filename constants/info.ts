@@ -11,7 +11,7 @@ export const GITHUB_PAGE = "https://github.com/MiiKOME";
 export const SOURCE_CODE_GITHUB_PAGE = "https://github.com/MiiKOME/fuxiaochen";
 
 /** 掘金个人页 */
-export const JUEJIN_PAGE = "https://github.com/MiiKOME/fuxiaochen";
+export const JUEJIN_PAGE = "https://github.com/MiiKOME";
 
 /** B站个人页 */
 export const BILIBILI_PAGE = "https://space.bilibili.com/2099830";
@@ -23,13 +23,13 @@ export const WEBSITE = `${NICKNAME}`;
 export const SLOGAN = "天下英雄真如过江之鲫";
 
 /** 网站ICP备案号 */
-export const BEI_AN_NUMBER = "赣ICP备2024026230号";
+export const BEI_AN_NUMBER = "未定";
 
 /** 工信部网站链接 */
 export const BEI_AN_LINK = "https://beian.miit.gov.cn";
 
 /** 公安备案号 */
-export const GONG_AN_NUMBER = "赣公网安备36100002000386号";
+export const GONG_AN_NUMBER = "未定";
 
 /** 公安网站链接 */
 export const GONG_AN_LINK =

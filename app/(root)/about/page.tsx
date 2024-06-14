@@ -147,7 +147,6 @@ export default function Page() {
           }}
         >
           <h3>其它</h3>
- 
         </div>
 
         <div
@@ -159,11 +158,8 @@ export default function Page() {
           <h2>我的设备</h2>
           <ul>
             <li>
-              <span className="line-through">
-                更新有点快先不急着写
-              </span>
+              <span className="line-through">更新有点快先不急着写</span>
             </li>
-
           </ul>
         </div>
 

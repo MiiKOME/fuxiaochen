@@ -23,7 +23,7 @@ export const WEBSITE = `${NICKNAME}`;
 export const SLOGAN = "天下英雄真如过江之鲫";
 
 /** 网站ICP备案号 */
-export const BEI_AN_NUMBER = "未定";
+export const BEI_AN_NUMBER = "渝ICP备2024034421号";
 
 /** 工信部网站链接 */
 export const BEI_AN_LINK = "https://beian.miit.gov.cn";
